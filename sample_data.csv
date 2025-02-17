@@ -1,0 +1,5 @@
+trip_id,driver_id,driver_name,trip_date,pickup_location,dropoff_location,fare_amount,rating,vehicle_type,payment_method
+101,D001,John Doe,2024-12-24,New York,Brooklyn,25.50,4.8,Sedan,Credit Card
+102,D002,Jane Smith,2024-12-12,Los Angeles,Santa Monica,18.75,,SUV,
+103,D003,,2024-12-13,Chicago,Downtown,-10.00,3.5,Van,Cash
+104,D004,Alice Lee,2024-12-25,Houston,,30.00,4.9,Sedan,Credit Card
